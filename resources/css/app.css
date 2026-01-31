@@ -1,0 +1,4 @@
+@import "tailwindcss";
+
+@source "../js/**/*.{js,jsx}";
+@source "../views/**/*.blade.php";
