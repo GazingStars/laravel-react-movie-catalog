@@ -1,3 +1,5 @@
+[![CI](https://github.com/GazingStars/laravel-react-movie-catalog/actions/workflows/ci.yml/badge.svg)](https://github.com/GazingStars/laravel-react-movie-catalog/actions/workflows/ci.yml)
+
 # Movie Catalog — Laravel + Inertia + React
 
 Full‑stack SPA приложение каталога фильмов.
